@@ -1,8 +1,4 @@
-examples-private/
-.vagrant
-vendor/cache
-/trash/
-rdoc/*
+
 .com.apple.timemachine.supported
 .DS_Store
 *tmp*
